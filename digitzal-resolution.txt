@@ -1,0 +1,4 @@
+DIGITZAL RESOLUTION
+- Konsisten untuk melakukan latihan coding 2x seminggu
+- Membuat proyek sebuah tampilan UI untuk website sekolah, komunitas, atau pribadi
+- Membuat satu website full stack
